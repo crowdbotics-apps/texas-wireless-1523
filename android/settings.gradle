@@ -1,0 +1,3 @@
+rootProject.name = 'texas_wireless_1523'
+
+include ':app'
